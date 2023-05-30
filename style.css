@@ -18,10 +18,15 @@ main {
     margin-left: 380px;
 }
 
+.contenido{
+    margin-top:627px;
+}
+
 .text-area {
     border: none;
     color: #0A3871;
     margin-top: 70px;
+    position: fixed;
 }
 
 ::placeholder {
@@ -56,6 +61,7 @@ main {
     font-size: 24px;
     line-height: 120%;
     text-align: center;
+    padding-top: 350px;
 }
 
 .mensaje:focus {
@@ -94,10 +100,10 @@ main {
     color: #0A3871;
     cursor: pointer;
     height: 57px;
-    margin-left: 150px;
+    margin-left: 164px;
     margin-top: 630px;
     position: absolute;
-    width: 256px;
+    width: 236px;
 }
 
 .informacion {
